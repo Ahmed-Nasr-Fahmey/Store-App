@@ -17,7 +17,7 @@ The Store App utilizes the following technologies to deliver a robust e-commerce
 
 - ![Dart Language](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-- ![FakeStoreAPI](https://img.shields.io/badge/FakeStoreAPI-FF5733?style=for-the-badge&logo=json&logoColor=white): Integration with the FakeStoreAPI for retrieving product data. GET & POST & PUT Requests
+- ![FakeStoreAPI](https://img.shields.io/badge/FakeStoreAPI-FF5733?style=for-the-badge&logo=json&logoColor=white): Integration with the FakeStoreAPI for retrieving product data. `GET` & `POST` & `PUT` Requests
   
 ## State Management with Provider
 
